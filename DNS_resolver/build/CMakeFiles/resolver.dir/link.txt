@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/resolver.dir/resolver.cpp.o -o resolver 

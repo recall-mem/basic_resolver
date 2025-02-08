@@ -1,3 +1,0 @@
-/home/recall/Desktop/DNS_resolver/build/CMakeFiles/resolve.dir
-/home/recall/Desktop/DNS_resolver/build/CMakeFiles/edit_cache.dir
-/home/recall/Desktop/DNS_resolver/build/CMakeFiles/rebuild_cache.dir
