@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/recall/Libraries/boost_1_86_0/"
+            ]
+        }
+    ],
+    "version": 4
+}
